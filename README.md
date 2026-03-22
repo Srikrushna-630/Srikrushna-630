@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Srikrushna-630
-- 👀 I’m interested in Front-end Development, Web Development.
+- 👀 I’m interested in Full-stack Development, Web Development.
 - 🌱 I’m currently learning MERN Stack Development.
 - 💞️ I’m looking to collaborate on open source contribution.
 - 📫 How to reach me @ss-krishna.03(Instagram)
